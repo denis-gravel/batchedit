@@ -19,7 +19,7 @@ $lang['err_noregexp'] = 'Expression régulière non précisée.';
 $lang['err_invregexp'] = 'Expression régulière invalide.';
 $lang['err_emptyidx'] = 'L\'index de la page est vide.';
 $lang['err_idxaccess'] = 'Je ne peux avoir accès à l\'index de la page.';
-$lang['err_pregfailed'] = 'Aucune correspondance avec l\'xpression régulière.';
+$lang['err_pregfailed'] = 'Aucune correspondance avec l\'expression régulière.';
 
 $lang['war_nomatches'] = 'Aucune correspondance trouvée.';
 $lang['war_norights'] = 'Vous n\'avez pas le droit de modifier la page {1}.';
